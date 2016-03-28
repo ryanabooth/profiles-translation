@@ -7,7 +7,7 @@
       "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/master/png/US.png"
     },
     {
-      "name": "English",
+      "name": "Chinese",
       "code": "zh-CN",
       "translations_url": "https://profiles-translation.udacity.com/zh-CN.json",
       "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/master/png/CN.png"
