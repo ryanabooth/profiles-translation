@@ -1,0 +1,14 @@
+{
+  "languages": [
+    {
+      "name": "English",
+      "code": "en-US",
+      "translations_url": "https://profiles-translation.udacity.com/en-US.json"
+    },
+    {
+      "name": "English",
+      "code": "zh-CN",
+      "translations_url": "https://profiles-translation.udacity.com/zh-CN.json"
+    }
+  ]
+}
