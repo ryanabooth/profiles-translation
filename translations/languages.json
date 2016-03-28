@@ -3,12 +3,14 @@
     {
       "name": "English",
       "code": "en-US",
-      "translations_url": "https://profiles-translation.udacity.com/en-US.json"
+      "translations_url": "https://profiles-translation.udacity.com/en-US.json",
+      "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/master/png/US.png"
     },
     {
       "name": "English",
       "code": "zh-CN",
-      "translations_url": "https://profiles-translation.udacity.com/zh-CN.json"
+      "translations_url": "https://profiles-translation.udacity.com/zh-CN.json",
+      "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/master/png/CN.png"
     }
   ]
 }
