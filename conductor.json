@@ -5,7 +5,7 @@
     "id": "/$GROUP/$SERVICE",
     "cpus": 0.1,
     "mem": 64,
-    "instances": 1,
+    "instances": 2,
     "constraints": [["hostname", "UNIQUE"], ["az", "GROUP_BY", "3"]],
     "env": {
       "SERVICE_80_NAME": "$SERVICE",
