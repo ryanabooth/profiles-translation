@@ -4,13 +4,13 @@
       "name": "English",
       "code": "en-US",
       "translations_url": "https://profiles-translation.udacity.com/en-US.json",
-      "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/master/png/US.png"
+      "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/c463e9f960f40bab02e756a16b9411c2fd29bcf1/png/US.png"
     },
     {
       "name": "Chinese",
       "code": "zh-CN",
       "translations_url": "https://profiles-translation.udacity.com/zh-CN.json",
-      "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/master/png/CN.png"
+      "flag_icon_url": "https://cdn.rawgit.com/googlei18n/region-flags/c463e9f960f40bab02e756a16b9411c2fd29bcf1/png/CN.png"
     }
   ]
 }
